@@ -1,0 +1,91 @@
+.container{
+    margin-top: 20px;
+}
+#content1{
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: indianred;
+    margin: auto;
+}
+.navbar{
+    margin-left: 35px;
+}
+
+#row2{
+    background-image: url("/SELF-PROJECTS/NEWAARCHASOFT/logos/new4.jpeg");
+    margin-top: 20px;
+    height: 31.5em;
+    width: 70em;
+}
+#content2{
+    font-size: xx-large ;
+    padding-top: 190px;
+    padding-left: 30px;
+    color: whitesmoke;
+}
+.form-block{
+    height: 30em;
+    max-width: 30em;
+    border: 2px solid white;
+    margin-top: 12px;
+    border-radius: 8px;
+    background-color: white;
+}
+#content3{
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    font-family: cursive;
+    color: brown;
+}
+#input1{
+    width: 11em;
+    margin-left:30px;
+}
+#input2{
+    margin-left:120px;
+    width: 11em;
+}
+#basicaddon{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+#input3{
+    margin-top: 20px;
+    margin-right: 50px;
+}
+#input4{
+    margin-top: 20px;
+    width: 25em;
+    margin-left: 30px;
+}
+#input5{
+    margin-top: 20px;
+    width: 25em;
+    margin-left: 30px;
+}
+#msg{
+    margin-left:  35px;
+    color: indianred;
+}
+#gender{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+#male{
+    margin-left: 40px;
+}
+#female{
+    margin-left: 40px;
+}
+#btn1{
+    margin-top: 40px;
+    margin-left: 200px;
+}
+#chk1{
+    margin-top: 30px;
+    margin-left: 50px;
+}
